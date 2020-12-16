@@ -17,5 +17,5 @@ https://colab.research.google.com/drive/16430v0fCyLi71vQ1r5UTa1Hc7xfElBNY?usp=sh
 Consider saving your own version of these files if you want to edit them. 
 
 Recommended resourses for stats:
-https://web.mit.edu/6.813/www/sp18/classes/phd-experiment-design/ 
-https://web.mit.edu/6.813/www/sp18/classes/phd-experiment-analysis/ 
+* https://web.mit.edu/6.813/www/sp18/classes/phd-experiment-design/ 
+* https://web.mit.edu/6.813/www/sp18/classes/phd-experiment-analysis/ 
